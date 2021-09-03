@@ -213,7 +213,7 @@ Column{data-width=1200}
 
 
 
-<iframe style="left:0; top:0; width:100%; height:100%" src="file:///Users/1112055/Desktop/index_tmp/[AIM-INDEX]마켓센싱 시각화_20210903_케플러/index_extra.html"></iframe>
+<iframe style="left:0; top:0; width:100%; height:100%" src="https://skt-pnb-share.github.io/index_extra/"></iframe>
 
 
 
